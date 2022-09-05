@@ -107,7 +107,7 @@ nav, header, footer {
 
 /* BOXES */
 
-.boxes h2 {
+#boxes h2 {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
@@ -115,11 +115,11 @@ nav, header, footer {
     margin: 48px auto 24px;
 }
 
-.boxes {
+#boxes {
     min-height: 450px;
 }
 
-.boxes .container {
+#boxes .container {
     display: flex;
     justify-content: space-between;
 }
@@ -143,7 +143,7 @@ nav, header, footer {
 
 /* QUOTE */
 
-.quote {
+#quote {
     background-color: #e5e7eb;
 }
 
@@ -165,7 +165,7 @@ nav, header, footer {
     align-self: flex-end;
 }
 
-.quote .container {
+#quote .container {
     min-height: 400px;
     max-width: 1000px;
     display: flex;
